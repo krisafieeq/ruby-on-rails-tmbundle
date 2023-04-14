@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+New HUB Cloud Training docs page (#8174)
