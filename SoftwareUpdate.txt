@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Fix PNNX ubuntu -> linux bug (#7050)
