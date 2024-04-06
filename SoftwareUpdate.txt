@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+YAML reformat (#7669)
